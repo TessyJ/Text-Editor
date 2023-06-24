@@ -1,8 +1,12 @@
  # Project Name Text-Editor
 
  # Project Repository
+ 
 
 # Project URL
+https://github.com/TessyJ/Text-Editor
+
+
 
 # Heroku URL
 
