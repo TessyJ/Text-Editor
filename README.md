@@ -7,10 +7,10 @@
 https://github.com/TessyJ/Text-Editor
 
 
-
 # Heroku URL
 
-https://dashboard.heroku.com/apps/pwa-note-editor/deploy/github
+# Heroku URL
+https://pwa-note-editor-861a86787a44.herokuapp.com/
 
 # Project Description
 The Progressive Web Applications (PWA): Text Editor runs webpack plugins to a generated HTML
