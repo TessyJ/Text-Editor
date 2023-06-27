@@ -7,7 +7,7 @@
 https://github.com/TessyJ/Text-Editor
 
 
-# Heroku URL
+
 
 # Heroku URL
 https://pwa-note-editor-861a86787a44.herokuapp.com/
